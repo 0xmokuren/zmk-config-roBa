@@ -96,10 +96,10 @@
 
         SIGN_AND_ARROW {
             bindings = <
-&kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR        &kp PERCENT                                                     &kp CARET         &kp AMPERSAND      &kp ASTERISK    &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
-&kp SLASH        &trans       &trans    &trans            &trans             &kp LC(LA(KP_NUMBER_0))      &kp UNDERSCORE  &kp LEFT_ARROW    &kp DOWN_ARROW     &kp UP_ARROW    &kp RIGHT_ARROW       &kp PERCENT
-&kp LEFT_SHIFT   &trans       &trans    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans                       &trans          &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE  &kp RIGHT_BRACE       &kp BACKSLASH
-&trans           &trans       &trans    &trans            &trans             &trans                       &trans          &trans                                                                     &trans
+&kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR        &kp PERCENT                                                     &kp CARET       &kp AMPERSAND   &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS
+&kp SLASH        &trans       &trans    &trans            &kp BACKSLASH      &kp LC(LA(KP_NUMBER_0))      &kp UNDERSCORE  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW       &trans
+&kp LEFT_SHIFT   &trans       &trans    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans                       &trans          &trans          &trans          &trans        &trans                &kp BACKSLASH
+&trans           &trans       &trans    &trans            &trans             &trans                       &trans          &trans                                                              &trans
             >;
         };
 
