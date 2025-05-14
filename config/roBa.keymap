@@ -121,6 +121,8 @@
 &trans  &trans  &trans  &trans  &trans    &trans      &trans  &trans  &trans  &trans  &trans  &trans
 &trans  &trans  &trans  &trans  &mkp MB1  &trans      &trans  &trans                          &mkp MB2
             >;
+
+            sensor-bindings = <&scroll_up_down>;
         };
 
         SCROLL {
