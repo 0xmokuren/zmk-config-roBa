@@ -71,8 +71,6 @@
         };
     };
 
-    sensor-bindings = <&scroll_up_down>;
-
     keymap {
         compatible = "zmk,keymap";
 
