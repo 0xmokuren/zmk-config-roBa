@@ -79,7 +79,7 @@
 &kp Q             &kp W         &kp E         &kp R        &kp T                                       &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A             &kp S         &kp D         &kp F        &kp G     &kp LS(LG(S))      &kp MINUS      &kp H        &kp J  &kp K      &kp L    &kp SQT
 &mt LEFT_SHIFT Z  &kp X         &kp C         &kp V        &kp B     &kp TAB            &kp SEMICOLON  &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
-&kp LCTRL         &kp LEFT_ALT  &kp LEFT_WIN  &lt 1 SPACE  &mkp MB1  &lt 2 ESC          &kp BACKSPACE  &lt 2 ENTER                             &kp DEL
+&kp LCTRL         &kp LEFT_ALT  &kp LEFT_WIN  &lt 1 SPACE  &mkp MB1  &lt 2 ESC          &kp BACKSPACE  &lt 2 SPACE                             &kp ENTER
             >;
 
             sensor-bindings = <&scroll_up_down>;
